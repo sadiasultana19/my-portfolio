@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1 {
+    font-size: 40px;
+}
+section {
+    display: flex;
+    padding-left: 3%;
+}
+.half {
+    width: 50%;
+}
+.ok {
+    text-decoration: none;
+    background-image:linear-gradient(orange , rgb(80, 13, 80)  ) ;
+    color:white;
+    padding: 10px 45px;
+    border-radius: 10px;
+     font-weight:500 ;
+}
+.nokta {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
